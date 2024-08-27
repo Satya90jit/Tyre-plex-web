@@ -56,11 +56,11 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 ## Deployed URL
 
-Check out the deployed version of this project on Vercel: https://movie-browse-web.vercel.app/
+Check out the deployed version of this project on Vercel: https://tyre-plex-web.vercel.app/
 
 ### UI/UX Responsive
 
-![Project Screenshot](./public/home-page-ss.png)
+![Project Screenshot](./public/ss.png)
 
 ## Learn More
 
